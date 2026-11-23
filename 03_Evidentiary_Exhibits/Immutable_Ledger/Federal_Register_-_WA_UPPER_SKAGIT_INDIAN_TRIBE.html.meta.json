@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WA+UPPER+SKAGIT+INDIAN+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WA+UPPER+SKAGIT+INDIAN+TRIBE",
+  "title": "Federal Register - WA UPPER SKAGIT INDIAN TRIBE",
+  "fetched_at": "2026-11-23T17:51:10.042609Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 329219,
+  "sha256": "2863742a8068491b7944ac0174828ae521954d6f87054c1d785b050b9425d1fd",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
